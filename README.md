@@ -1,2 +1,2 @@
 # QuantumSieve
-Optimisation programmes from quantum sieves algorithms
+Optimisation programmes for quantum sieves algorithms
